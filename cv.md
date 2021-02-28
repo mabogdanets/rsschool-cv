@@ -10,7 +10,6 @@
 * Sass
 * Gulp
 * JavaScript
-* Bootstrap
 
 I am getting my master's degree in Applied mathematics from 
 Saint Petersburg Electrotechnical University 'LETI'. I completed the Rolling Scope School in 2021 in the diraction of JavaScript.
