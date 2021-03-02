@@ -1,1 +1,1 @@
-https://mabogdanets.github.io/rsschool-cv/cv
+https://mabogdanets.github.io/rsschool-cv/
