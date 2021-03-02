@@ -1,0 +1,44 @@
+/**{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+  }*/
+body{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.wrapper{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0 15%;
+}
+
+main {
+	border: 1px solid rgb(247, 222, 217); 
+	background-color: rgb(251, 243, 241);
+	width: 75%;
+	padding: 50px; 
+	margin: 0 auto; 
+}
+.photo_contacts{
+	display: flex;
+	flex-direction: column;
+}
+.photo{
+	width: 50%;
+	align-self: center;
+}
+.titleh1 {
+	
+}
+.svg{
+	height: 1em;
+}
+
